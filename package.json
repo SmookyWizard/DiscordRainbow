@@ -1,12 +1,18 @@
 {
-  "name": "rainbowbot",
-  "version": "0.1.0",
+  "name": "rainbowdiscord",
+  "version": "1.0.0",
+  "description": "Discord rainbow bot",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "11.4.2",
+  },
+  "devDependencies": {},
   "scripts": {
-    "start": "node bot.js"
+    "start": "node bot.js",
   },
   "author": "AndreySuew",
-  "license": "MIT",
-  "dependencies": {
-    "discord.js": "^11.4.2",
-  },
+  "license": "ISC",
+  "engines": {
+    "node": "0.10.x"
+  }
 }
