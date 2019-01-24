@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node bot.js",
+    "start": "node bot.js"
   },
   "author": "AndreySuew",
   "license": "ISC",
