@@ -1,0 +1,25 @@
+{
+  "name": "rainbowbot",
+  "version": "0.1.0",
+  "description": "A simple discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discordbot"
+  ],
+  "author": "AndreySuew",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+  },
+  "eslintConfig": {
+    "extends": "aqua",
+    "rules": {
+      "no-console": 0
+    }
+  }
+}
