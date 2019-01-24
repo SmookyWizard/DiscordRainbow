@@ -1,8 +1,6 @@
 {
   "name": "rainbowbot",
   "version": "0.1.0",
-  "description": "A simple discord bot",
-  "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
@@ -10,5 +8,5 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.4.2",
-  }
+  },
 }
