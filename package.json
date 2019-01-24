@@ -10,5 +10,5 @@
     "start": "node bot.js"
   },
   "author": "AndreySuew",
-  "license": "ISC",
+  "license": "ISC"
 }
